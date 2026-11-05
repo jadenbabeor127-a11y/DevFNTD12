@@ -53,7 +53,7 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 25,
+        "Damage": 24,
         "Cooldown": 2
       },
       {
