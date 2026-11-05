@@ -1359,7 +1359,7 @@
         "Cooldown": 2.5
       }
     ]
-"FazCade": {
+  "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
@@ -1400,6 +1400,6 @@
                 "Cooldown": 4,
                 "Farm": 200
             }
-        ]
-  }
-}
+       ]
+    }
+ }
