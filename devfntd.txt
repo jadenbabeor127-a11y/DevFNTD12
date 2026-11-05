@@ -1359,47 +1359,5 @@
         "Cooldown": 2.5
       }
     ]
-  "FazCade": {
-        "Type": "Farm",
-        "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
-        "PlacePrice": 900,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "NoEnemyAttack": true,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 50
-            },
-            {
-                "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 100
-            },
-            {
-                "Price": 2000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 150
-            },
-            {
-                "Price": 3000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 200
-            }
-       ]
-    }
- }
+  }
+}
