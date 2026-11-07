@@ -38,6 +38,45 @@
       }
     ]
   },
+    "Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://16620268084",
+        "Rarity": "Mythic",
+        "PlacePrice": 7500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 26,
+                "Damage": 50,
+                "Cooldown": 0.05
+            }
+        ]
+    },
   "Chica": {
     "Type": "Explosion",
     "Image": "rbxassetid://16620303027",
@@ -191,6 +230,57 @@
       }
     ]
   },
+    "Goliath Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://112659672284119",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 60000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 70000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 90000,
+                "Range": 29,
+                "Damage": 15000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 100000,
+                "Range": 32,
+                "Damage": 17500,
+                "Cooldown": 3
+            }
+        ]
+    },
   "Withered Chica": {
     "Type": "Single",
     "Image": "rbxassetid://16632209265",
