@@ -38,6 +38,45 @@
       }
     ]
   },
+"Glitched CupCake": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18888327109",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 50,
+                "Cooldown": 0.85
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.65
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 80,
+                "Cooldown": 0.55
+            }
+        ]
+    },
 "Glitched Puppeteer": {
         "Type": "Splash",
         "Image": "rbxassetid://18887217738",
