@@ -145,7 +145,7 @@
     },
 "Turkey Chica": {
         "Type": "Splash",
-        "Image": "rbxassetid://121810619624075",
+        "Image": "rbxassetid://74019559357905",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0.7,
