@@ -144,7 +144,7 @@
         ]
     },
 "Turkey Chica": {
-        "Type": "Splash",
+        "Type": "Explosion",
         "Image": "rbxassetid://74019559357905",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -159,26 +159,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 4000,
+                "Cooldown": 2
             },
             {
                 "Price": 7500,
                 "Range": 16,
-                "Damage": 1650,
-                "Cooldown": 0.9
+                "Damage": 4100,
+                "Cooldown": 1.8
             },
             {
                 "Price": 10000,
                 "Range": 17,
-                "Damage": 1800,
-                "Cooldown": 0.9
+                "Damage": 4500,
+                "Cooldown": 1.8
             },
             {
                 "Price": 1500,
                 "Range": 20,
-                "Damage": 1900,
-                "Cooldown": 0.9
+                "Damage": 4500,
+                "Cooldown": 1.7
             }
         ]
     },
