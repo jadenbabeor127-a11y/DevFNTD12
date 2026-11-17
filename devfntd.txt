@@ -1763,6 +1763,58 @@
       }
     ]
   },
+"Circuit Breaker Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://18886487842",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Virus", "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.7,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 28,
+                "Damage": 600,
+                "Cooldown": 0.6,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 31,
+                "Damage": 800,
+                "Cooldown": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 1000,
+                "Cooldown": 0.4,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            }
+        ]
+    },
   "Patriot Freddy": {
     "Type": "Explosion",
     "Image": "rbxassetid://18326604996",
