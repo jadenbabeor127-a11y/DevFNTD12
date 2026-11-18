@@ -555,20 +555,20 @@
             {
                 "Price": 7500,
                 "Range": 16,
-                "Damage": 4100,
-                "Cooldown": 1.8
+                "Damage": 5000,
+                "Cooldown": 3.5
             },
             {
                 "Price": 10000,
                 "Range": 17,
-                "Damage": 4500,
-                "Cooldown": 1.8
+                "Damage": 6000,
+                "Cooldown": 3
             },
             {
                 "Price": 1500,
                 "Range": 20,
-                "Damage": 4500,
-                "Cooldown": 1.7
+                "Damage": 7000,
+                "Cooldown": 2.8
             }
         ]
     },
@@ -578,7 +578,7 @@
         "Rarity": "Epic",
         "PlacePrice": 1500,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
