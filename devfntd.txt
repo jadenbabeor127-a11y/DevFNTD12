@@ -38,6 +38,45 @@
       }
     ]
   },
+    "Upgraded Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://76006977041371",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 26,
+                "Damage": 100,
+                "Cooldown": 0.05
+            }
+        ]
+    },
 "Tuned Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://139180573868562",
