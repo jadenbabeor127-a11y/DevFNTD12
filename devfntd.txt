@@ -535,7 +535,7 @@
     },
 "Turkey Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://74019559357905",
+        "Image": "rbxassetid://123566282779161",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0.9,
