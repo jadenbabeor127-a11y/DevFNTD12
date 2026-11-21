@@ -41,8 +41,8 @@
 "Bonnie 2": {
     "Type": "Single",
     "Image": "rbxassetid://16620053009",
-    "Rarity": "Epic",
-    "PlacePrice": 400,
+    "Rarity": "Mythic",
+    "PlacePrice": 5000,
     "Max": 8,
     "Offset": 0.3,
     "hitboxOffset": {
@@ -54,7 +54,7 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 60,
+        "Damage": ,
         "Cooldown": 1.01
       },
       {
@@ -78,7 +78,7 @@
     ]
   },
   "Glock Freddy": {
-    "Type": "Uncommon",
+    "Type": "Rare",
     "Image": "rbxassetid://16620053009",
     "Rarity": "Secret",
     "PlacePrice": 400,
