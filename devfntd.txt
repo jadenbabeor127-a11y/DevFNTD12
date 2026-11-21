@@ -39,7 +39,7 @@
     ]
   },
   "Glock Freddy": {
-    "Type": "Single",
+    "Type": "Uncommon",
     "Image": "rbxassetid://16620053009",
     "Rarity": "Secret",
     "PlacePrice": 400,
@@ -54,25 +54,25 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 300,
+        "Damage": 60,
         "Cooldown": 1.01
       },
       {
         "Price": 600,
         "Range": 12,
-        "Damage": 400,
+        "Damage": 90,
         "Cooldown": 1
       },
       {
         "Price": 850,
         "Range": 14,
-        "Damage": 500,
+        "Damage": 120,
         "Cooldown": 1
       },
       {
         "Price": 1550,
         "Range": 15,
-        "Damage": 600,
+        "Damage": 150,
         "Cooldown": 0.75
       }
     ]
