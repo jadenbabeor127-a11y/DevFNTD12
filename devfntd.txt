@@ -38,7 +38,7 @@
       }
     ]
   },
-"Chica 2": {
+"Bonnie 2": {
     "Type": "Uncommon",
     "Image": "rbxassetid://16620053009",
     "Rarity": "Secret",
