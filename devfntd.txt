@@ -39,9 +39,9 @@
     ]
   },
 "Bonnie 2": {
-    "Type": "Uncommon",
+    "Type": "Single",
     "Image": "rbxassetid://16620053009",
-    "Rarity": "Secret",
+    "Rarity": "Epic",
     "PlacePrice": 400,
     "Max": 8,
     "Offset": 0.3,
