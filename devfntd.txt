@@ -122,7 +122,7 @@
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -132,26 +132,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1300,
-                "Cooldown": 0.5
+                "Damage": 1000,
+                "Cooldown": 0.9
             },
             {
                 "Price": 20000,
                 "Range": 23,
                 "Damage": 1600,
-                "Cooldown": 0.5
+                "Cooldown": 0.7
             },
             {
                 "Price": 25000,
                 "Range": 26,
                 "Damage": 1900,
-                "Cooldown": 0.5
+                "Cooldown": 0.7
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 2250,
-                "Cooldown": 0.5
+                "Damage": 2000,
+                "Cooldown": 0.7
             }
         ]
     },
