@@ -39,48 +39,44 @@
     ]
   },
 "Party Glock Freddy": {
-        "Type": "Farm",
-        "Image": "rbxassetid://18363529003",
-        "Rarity": "Epic",
-        "PlacePrice": 800,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "NoEnemyAttack": true,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 200
-            },
-            {
-                "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 300
-            },
-            {
-                "Price": 2000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 500
-            },
-            {
-                "Price": 3000,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
-                "Farm": 800
-            }
-        ]
+    "Type": "Single",
+    "Image": "rbxassetid://16620053009",
+    "Rarity": "Uncommon",
+    "PlacePrice": 300,
+    "Max": 8,
+    "Offset": 0.3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 20,
+        "Cooldown": 1.01
+      },
+      {
+        "Price": 500,
+        "Range": 12,
+        "Damage": 25,
+        "Cooldown": 1
+      },
+      {
+        "Price": 750,
+        "Range": 14,
+        "Damage": 30,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1250,
+        "Range": 15,
+        "Damage": 30,
+        "Cooldown": 0.75
+      }
+    ]
+  },
 "CupCakes": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
