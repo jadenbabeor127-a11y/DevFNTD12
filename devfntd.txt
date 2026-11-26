@@ -511,12 +511,12 @@
     ]
   },
 "Balloon Boy 2": {
-    "Type": "Single",
-    "Image": "rbxassetid://16620053009",
-    "Rarity": "Mythic",
-    "PlacePrice": 5000,
-    "Max": 8,
-    "Offset": 0.3,
+    "Type": "Support",
+    "Image": "rbxassetid://17851638702",
+    "Rarity": "Secret",
+    "PlacePrice": 1000,
+    "NoEnemyAttack": true,
+    "Max": 2,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -525,27 +525,31 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 350,
-        "Cooldown": 2
-      },
-      {
-        "Price": 7500,
-        "Range": 12,
-        "Damage": 400,
-        "Cooldown": 1.8
-      },
-      {
-        "Price": 10000,
-        "Range": 14,
-        "Damage": 450,
-        "Cooldown": 1.7
-      },
-      {
-        "Price": 15050,
         "Range": 15,
-        "Damage": 500,
-        "Cooldown": 1.6
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.09
+      },
+      {
+        "Price": 1700,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.15
+      },
+      {
+        "Price": 2200,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.22
+      },
+      {
+        "Price": 2500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.27
       }
     ]
   },
