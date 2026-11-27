@@ -83,7 +83,7 @@
   },
   "Chica 2": {
     "Type": "Single",
-    "Image": "rbxassetid://74180672841910",
+    "Image": "rbxassetid://112993575551815",
     "Rarity": "Uncommon",
     "PlacePrice": 300,
     "Max": 8,
