@@ -963,25 +963,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 300,
                 "Cooldown": 0.9
             },
             {
                 "Price": 20000,
                 "Range": 23,
-                "Damage": 1600,
+                "Damage": 500,
                 "Cooldown": 0.7
             },
             {
                 "Price": 25000,
                 "Range": 26,
-                "Damage": 1900,
+                "Damage": 800,
                 "Cooldown": 0.7
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 2000,
+                "Damage": 1000,
                 "Cooldown": 0.7
             }
         ]
@@ -1355,7 +1355,7 @@
             {
                 "Price": 75000,
                 "Range": 35,
-                "Damage": 65,
+                "Damage": 75,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -1409,7 +1409,7 @@
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0.9,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1435,7 +1435,7 @@
                 "Cooldown": 3
             },
             {
-                "Price": 1500,
+                "Price": 15000,
                 "Range": 20,
                 "Damage": 7000,
                 "Cooldown": 2.8
