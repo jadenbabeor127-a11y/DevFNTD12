@@ -358,7 +358,7 @@
       }
     ]
   },
-"Withered GoluckFreddy": {
+"Withered Goldeb Freddy 2": {
     "Type": "Single",
     "Image": "rbxassetid://85622295112351",
     "Rarity": "Mythic",
