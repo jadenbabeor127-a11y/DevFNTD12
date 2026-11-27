@@ -56,24 +56,24 @@
         "Range": 15,
         "Damage": 0,
         "Cooldown": 1,
-        "RangeBoost": 1.08
+        "RangeBoost": 1.09
       },
       {
-        "Price": 1200,
+        "Price": 1000,
         "Range": 15,
         "Damage": 0,
         "Cooldown": 1,
         "RangeBoost": 1.2
       },
       {
-        "Price": 1400,
+        "Price": 2000,
         "Range": 15,
         "Damage": 0,
         "Cooldown": 1,
-        "RangeBoost": 1.25
+        "RangeBoost": 1.27
       },
       {
-        "Price": 1800,
+        "Price": 3000,
         "Range": 15,
         "Damage": 0,
         "Cooldown": 1,
@@ -82,10 +82,10 @@
     ]
   },
   "Chica 2": {
-    "Type": "Single",
+    "Type": "Explosion",
     "Image": "rbxassetid://124363704325787",
     "Rarity": "Uncommon",
-    "PlacePrice": 300,
+    "PlacePrice": 500,
     "Max": 8,
     "Offset": 0.3,
     "hitboxOffset": {
@@ -97,26 +97,26 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 20,
-        "Cooldown": 1.01
+        "Damage": 40,
+        "Cooldown": 2
       },
       {
         "Price": 500,
         "Range": 12,
-        "Damage": 25,
-        "Cooldown": 1
+        "Damage": 65,
+        "Cooldown": 2
       },
       {
         "Price": 750,
         "Range": 14,
-        "Damage": 30,
-        "Cooldown": 1
+        "Damage": 80,
+        "Cooldown": 1.80
       },
       {
         "Price": 1250,
         "Range": 15,
-        "Damage": 30,
-        "Cooldown": 0.75
+        "Damage": 100,
+        "Cooldown": 1.65
       }
     ]
   },
